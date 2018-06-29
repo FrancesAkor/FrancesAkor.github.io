@@ -4,6 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [Link To Live Page](#link to live page)
 
 ## Instructions
 
@@ -15,6 +16,6 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-## Live Page
+## Link to Live Page
 
 To view the live page of this Pixel Art Maker, click [here](http://FrancesAkor.github.io/)
