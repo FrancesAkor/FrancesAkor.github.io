@@ -2,20 +2,13 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [About](#About)
 * [Link To Live Page](#linktolivepage)
 
-## Instructions
+## About
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This is the final project of the first phase of Udacity Frontend Web development program. Pixel Art Maker allows you to create mind-blowing art designs by just choosing  grid size and color, and then applying the color chosen to the cell with just a click. 
 
 ## Link to Live Page
 
-To view the live page of this Pixel Art Maker, click [here](http://FrancesAkor.github.io/)
+Begin your adventure to creating beautiful Pixel Art by clicking [here](http://FrancesAkor.github.io/)
