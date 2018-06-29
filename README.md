@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Link To Live Page](#link to live page)
+* [Link To Live Page](#linktolivepage)
 
 ## Instructions
 
